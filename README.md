@@ -11,5 +11,5 @@ This Python script monitors the price of a specific product on Amazon and sends 
 **Email Notification System:**
   - The script uses the smtplib library to send an email notification when the price drops below the specified threshold.
 
-**User-Agent Header**
+**User-Agent Header:**
   - The script includes a User-Agent header in the request to mimic a browser request, which helps avoid being blocked by the website.
